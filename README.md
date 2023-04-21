@@ -22,7 +22,6 @@ pip install streamlit-lottie
 pip install music21
 pip install torch torchvision
 git clone https://github.com/ultralytics/yolov5
-cd yolov5
 pip install -qr requirements.txt
 export QT_QPA_PLATFORM=offscreen
 nohup python3 -m streamlit run Home.py &
