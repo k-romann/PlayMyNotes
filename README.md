@@ -29,4 +29,5 @@ nohup python3 -m streamlit run Home.py &
 
  ### Демонстрация работы сервиса PlayMyNotes
 
- 
+ ![image](https://user-images.githubusercontent.com/70280347/233625508-cd4f0a9f-6985-4cbd-a110-9aa855ae48a2.png)
+
