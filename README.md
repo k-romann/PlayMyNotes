@@ -36,3 +36,4 @@ export QT_QPA_PLATFORM=offscreen
 nohup python3 -m streamlit run Home.py &
 ```
 
+ 
